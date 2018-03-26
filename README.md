@@ -21,7 +21,7 @@ Please observe the guidelines and conventions laid out in the [Sails project con
 
 #### eslint license
 
-[eslint](http://eslint.com/) is free and open source under the [MIT License](https://github.com/yaniswang/eslint/blob/60447c9472971f08a9c71ce76a9613da384a4484/LICENSE.md).
+[eslint](http://eslint.com/) is free and open source under the [MIT License](https://github.com/eslint/eslint/blob/v4.19.1/LICENSE).
 
 #### Supplementary license
 
